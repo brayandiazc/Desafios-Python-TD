@@ -1,4 +1,4 @@
-# Viene del material de apoyo
+# Viene del material de apoyo.
 recordatorios = [
 	['2021-01-01', "11:00", "Levantarse y ejercitar"],
 	['2021-05-01', "15:00", "No trabajar"],
@@ -7,18 +7,18 @@ recordatorios = [
 	['2021-12-25', "00:00", "Navidad"]
 ]
 
-# Requerimiento 3.1
+# Requerimiento 3.1.
 recordatorios.insert(...,['2021-01-02', "06:00", "Empezar el año"])
 
-# Requerimiento 3.2
+# Requerimiento 3.2.
 recordatorios[...][0] = "2021-07-16"
 
-# Requerimiento 3.3
+# Requerimiento 3.3.
 recordatorios....(2)
 
-# Requerimiento 3.4
+# Requerimiento 3.4.
 recordatorios...(...,['...', "...", "..."])
 recordatorios.append(["..."])
 
-# Mostrar los recordatorios
+# Mostrar los recordatorios.
 ...(recordatorios)
