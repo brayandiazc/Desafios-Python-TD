@@ -1,8 +1,8 @@
 # Importa la libreria solicitada para recibir argumentos.
 ... sys
 
-# Leer el archivo, recuerda pasarlo como argumento.
-with open(sys.argv[1], "r") as file:
+# Leer el archivo, recuerda pasarlo como argumento, viene del material del desafio.
+with open("texto.txt", "r") as file:
     texto=file.read()
 
 # Contar caracteres.
