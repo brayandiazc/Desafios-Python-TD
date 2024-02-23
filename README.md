@@ -12,7 +12,7 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
 
 ## Indice
 
-1. [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones](<./Modulo3/1-DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
+1. [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo3/1-DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
 
 ## Empezando 🚀
 
