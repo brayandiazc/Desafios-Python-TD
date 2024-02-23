@@ -16,12 +16,12 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
 
 ## Empezando 🚀
 
-Para comenzar a trabajar con esta apoyo, es necesario tener un navegador web moderno (como Google Chrome, Mozilla Firefox, Edge o Safari), un editor de código (como Visual Studio Code, Sublime Text o Atom) y Python 3.8 o superior instalado en tu computadora, en caso de no tenerlo instalado, puedes descargarlo desde [Python.org](https://www.python.org/downloads/).
+Para comenzar a trabajar con esta apoyo, es necesario tener un navegador web moderno (como Google Chrome, Mozilla Firefox, Edge o Safari), un editor de código (como Visual Studio Code o Sublime Text) y Python 3.8 o superior instalado en tu computadora, en caso de no tenerlo instalado, puedes descargarlo desde [Python.org](https://www.python.org/downloads/).
 
 ### Pre-requisitos 📋
 
 - Navegador web actualizado (Google Chrome, Mozilla Firefox, Safari, etc.)
-- Editor de código (Visual Studio Code, Sublime Text, Atom, etc.)
+- Editor de código (Visual Studio Code, Sublime Text, etc.)
 - tener instalado Python 3.8 o superior.
 - Conocimientos básicos de programación en Python.
 - Conocimientos básicos de uso de la terminal o consola de comandos.
