@@ -12,11 +12,11 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
 
 ## Indice
 
-1. [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo3/1-DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
+4. [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo3/4-DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
 
 ## Empezando 🚀
 
-Para comenzar a trabajar con esta apoyo, es necesario tener un navegador web moderno (como Google Chrome, Mozilla Firefox, Edge o Safari) y un editor de código (como Visual Studio Code, Sublime Text o Atom).
+Para comenzar a trabajar con esta apoyo, es necesario tener un navegador web moderno (como Google Chrome, Mozilla Firefox, Edge o Safari), un editor de código (como Visual Studio Code, Sublime Text o Atom) y Python 3.8 o superior instalado en tu computadora, en caso de no tenerlo instalado, puedes descargarlo desde [Python.org](https://www.python.org/downloads/).
 
 ### Pre-requisitos 📋
 
