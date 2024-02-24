@@ -1,1 +1,0 @@
-# Desafío - Introducción a Python
