@@ -17,8 +17,6 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
     - [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
     - [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(II).md>)
 
-1. [Fundamentos de programación en python - Desafío evaluado - Introducción a Python](./Modulo3/1-DesafioEvaluado-IntroduccionPython.md)
-
 ## Empezando 🚀
 
 Para comenzar a trabajar con esta apoyo, es necesario tener un navegador web moderno (como Google Chrome, Mozilla Firefox, Edge o Safari), un editor de código (como Visual Studio Code o Sublime Text) y Python 3.8 o superior instalado en tu computadora, en caso de no tenerlo instalado, puedes descargarlo desde [Python.org](https://www.python.org/downloads/).
@@ -60,4 +58,5 @@ Este proyecto está bajo la licencia MIT License (MIT) - consulta el archivo [LI
 ---
 
 ⌨️ con ❤️ por [Brayan Diaz C](https://github.com/brayandiazc) 😊
+
 # Apoyo-Desafio-BootcampJavaScript-TD
