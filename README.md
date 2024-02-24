@@ -13,7 +13,7 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
 ## Indice
 
 - M**odulo 3** Fundamentos de programación en python
-  - **Unidad 1** Estrucutras de datos y funciones
+  - **Unidad 3** Estructuras de datos y funciones
     - [Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
     - [Desafío evaluado - Estructuras de datos y funciones(II)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(II).md>)
 
