@@ -58,5 +58,3 @@ Este proyecto está bajo la licencia MIT License (MIT) - consulta el archivo [LI
 ---
 
 ⌨️ con ❤️ por [Brayan Diaz C](https://github.com/brayandiazc) 😊
-
-# Apoyo-Desafio-BootcampJavaScript-TD
