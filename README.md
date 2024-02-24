@@ -12,8 +12,12 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
 
 ## Indice
 
+- M**odulo 3**
+  - **Unidad 1**
+    - [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
+    - [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(II).md>)
+
 1. [Fundamentos de programación en python - Desafío evaluado - Introducción a Python](./Modulo3/1-DesafioEvaluado-IntroduccionPython.md)
-2. [Fundamentos de programación en python - Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo3/4-DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
 
 ## Empezando 🚀
 
@@ -56,3 +60,4 @@ Este proyecto está bajo la licencia MIT License (MIT) - consulta el archivo [LI
 ---
 
 ⌨️ con ❤️ por [Brayan Diaz C](https://github.com/brayandiazc) 😊
+# Apoyo-Desafio-BootcampJavaScript-TD
