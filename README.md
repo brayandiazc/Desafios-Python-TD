@@ -1,6 +1,6 @@
 # Apoyo Desafios Bootcamp Python - TD
 
-Material de apoyo para los desafios del Bootcamp Python de Talento Digital.
+Material de apoyo para los desafios del Bootcamp Python de Desafio Latam y Talento Digital.
 
 ## Descripción
 
