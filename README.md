@@ -25,13 +25,9 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
    1. Unidad 1 - Introducción a Python
       1. [Desafío evaluado - Introducción a Python](./Modulo-3/Unidad-1/DesafioEvaluado-IntroducciónPython.md)
    2. Unidad 2 - Sentencias condicionales e iterativas
-      1. [Desafío evaluado - Estructuras de datos y funciones(I) - Ejercicio 1](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-1/conversiones.py)
-      2. [Desafío evaluado - Estructuras de datos y funciones(I) - Ejercicio 3](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-1/word_count.py)
-      3. [Desafío evaluado - Estructuras de datos y funciones(I) - Ejercicio 2](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-1/recordatorios.py)
-      4. [Desafío evaluado - Estructuras de datos y funciones(II) - Ejercicio 1](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2/filtro.py)
-      5. [Desafío evaluado - Estructuras de datos y funciones(II) - Ejercicio 2](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2/velocidad.py)
-      6. [Desafío evaluado - Estructuras de datos y funciones(II) - Ejercicio 3](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2/ong.py)
-      7. [Desafío evaluado - Estructuras de datos y funciones(III)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-3)
+      1. [Desafío evaluado - Estructuras de datos y funciones(I)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-1)
+      2. [Desafío evaluado - Estructuras de datos y funciones(II)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2)
+      3. [Desafío evaluado - Estructuras de datos y funciones(III)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-3)
    3. Unidad 3 - Estructuras de datos y funciones
 
 ## Empezando 🚀
