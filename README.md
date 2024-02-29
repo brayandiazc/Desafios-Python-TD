@@ -23,7 +23,7 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
       1. [Desafío Guiado - Notas finales](./MODULO-2/Unidad-3/DesafioGuiado-NotasFinales)
 3. **Modulo 3** Fundamentos de programación en python
    1. Unidad 1 - Introducción a Python
-      1. [Desafío evaluado - Introducción a Python](./MODULO-3/Unidad-1/DesafioEvaluado-IntroducciónPython.md)
+      1. [Desafío evaluado - Introducción a Python](./Modulo-3/Unidad-1/DesafioEvaluado-IntroducciónPython.md)
    2. Unidad 2 - Sentencias condicionales e iterativas
       1. [Desafío evaluado - Estructuras de datos y funciones(I)](<./MODULO-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
       2. [Desafío evaluado - Estructuras de datos y funciones(II)](<./MODULO-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(II).md>)
