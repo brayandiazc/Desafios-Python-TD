@@ -25,9 +25,9 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
    1. Unidad 1 - Introducción a Python
       1. [Desafío evaluado - Introducción a Python](./Modulo-3/Unidad-1/DesafioEvaluado-IntroducciónPython.md)
    2. Unidad 2 - Sentencias condicionales e iterativas
-      1. [Desafío evaluado - Estructuras de datos y funciones(I)](./MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-I.md)
-      2. [Desafío evaluado - Estructuras de datos y funciones(II)](./MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-II.md)
-      3. [Desafío evaluado - Estructuras de datos y funciones(III)](./MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-III.md)
+      1. [Desafío evaluado - Estructuras de datos y funciones(I)](MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-I.md)
+      2. [Desafío evaluado - Estructuras de datos y funciones(II)](MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-II.md)
+      3. [Desafío evaluado - Estructuras de datos y funciones(III)](MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-III.md)
    3. Unidad 3 - Estructuras de datos y funciones
 
 ## Empezando 🚀
