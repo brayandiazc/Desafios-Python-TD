@@ -29,10 +29,9 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
       2. [Desafío evaluado - Estructuras de datos y funciones(I) - Ejercicio 3](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-1/word_count.py)
       3. [Desafío evaluado - Estructuras de datos y funciones(I) - Ejercicio 2](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-1/recordatorios.py)
       4. [Desafío evaluado - Estructuras de datos y funciones(II) - Ejercicio 1](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2/filtro.py)
-      5. [Desafío evaluado - Estructuras de datos y funciones(II) - Ejercicio 3](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2/velocidad.py)
-      6. [Desafío evaluado - Estructuras de datos y funciones(II) - Ejercicio 2](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2/ong.py)
-      7. [Desafío evaluado - Estructuras de datos y funciones(II)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2.md)
-      8. [Desafío evaluado - Estructuras de datos y funciones(III)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-3.md)
+      5. [Desafío evaluado - Estructuras de datos y funciones(II) - Ejercicio 2](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2/velocidad.py)
+      6. [Desafío evaluado - Estructuras de datos y funciones(II) - Ejercicio 3](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2/ong.py)
+      7. [Desafío evaluado - Estructuras de datos y funciones(III)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-3)
    3. Unidad 3 - Estructuras de datos y funciones
 
 ## Empezando 🚀
