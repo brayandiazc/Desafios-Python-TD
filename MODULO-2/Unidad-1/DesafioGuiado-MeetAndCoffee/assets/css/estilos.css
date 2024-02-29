@@ -1,0 +1,194 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+body {
+  text-align: center;
+  color: #000f08;
+  font-family: "Open Sans";
+}
+
+/* Navbar */
+
+nav {
+  background-color: #000f08;
+  color: white;
+  text-align: left;
+  padding: 20px 120px;
+  font-size: 25px;
+}
+
+nav li {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 60px;
+}
+
+nav li a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Hero Section */
+
+header {
+  text-align: right;
+  background-image: url("../img/bg-hero.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  color: white;
+  padding: 100px;
+  text-shadow: 0px 3px 6px #00000080;
+}
+
+header h1 {
+  font-size: 60px;
+  font-weight: 900;
+}
+
+header h2 {
+  font-size: 40px;
+  font-weight: 400;
+}
+
+/* Ubicación */
+
+#Ubicacion {
+  padding: 150px;
+}
+
+#Ubicacion h2 {
+  font-size: 45px;
+  margin: 40px 0px 20px 0px;
+}
+
+#Ubicacion p {
+  font-size: 25px;
+}
+
+/* Próxima charla */
+
+#Proxima-charla {
+  background: #a4452c;
+  padding: 100px;
+  color: white;
+}
+
+#Proxima-charla img {
+  height: 400px;
+}
+
+#Proxima-charla img,
+.texto {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+#Proxima-charla .texto {
+  text-align: left;
+  width: 40%;
+  margin-left: 40px;
+}
+
+#Proxima-charla .texto h3 {
+  font-size: 45px;
+}
+
+#Proxima-charla .texto h4 {
+  font-size: 40px;
+  padding-bottom: 10px;
+}
+
+#Proxima-charla .texto h6 {
+  font-size: 33px;
+}
+
+#Proxima-charla .texto span {
+  font-size: 20px;
+}
+
+#Proxima-charla .texto p {
+  font-size: 25px;
+}
+
+#Proxima-charla .texto h6,
+span,
+p {
+  font-weight: 400;
+}
+
+/* Eventos */
+
+#Eventos {
+  padding: 100px;
+}
+
+#Eventos h2 {
+  font-size: 45px;
+  margin-bottom: 50px;
+}
+
+#Eventos a {
+  text-decoration: none;
+  color: #000;
+}
+
+#Eventos article {
+  display: inline-block;
+  margin: 0px 50px;
+  font-size: 35px;
+}
+
+#Eventos article img {
+  margin-bottom: 45px;
+}
+
+/* Footer */
+
+footer {
+  background-color: #000f08;
+  color: white;
+  padding: 120px 100px 100px 100px;
+  font-size: 25px;
+}
+
+footer a {
+  color: white;
+  margin: 0px 20px;
+  text-decoration: none;
+}
+
+footer p {
+    margin-top: 40px;
+}
+
+/* Pagina evento01.html */
+
+.simposio-vegan {
+  width: 1085px;
+  margin: 40px auto;
+  text-align: left;
+}
+
+.simposio-vegan img{
+  width: 100%;
+  height: 565px;
+  margin: 40px 0;
+}
+
+.simposio-vegan h1 {
+  font-size: 45px;
+}
+
+.simposio-vegan h2 {
+  font-size: 40px;
+}
+
+.simposio-vegan p{
+  margin: 30px 0;
+  font-size: 25px;
+  letter-spacing: 0.5px;
+  color: #000F08;
+}

@@ -12,14 +12,23 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
 
 ## Indice
 
-- **Modulo 3** Fundamentos de programación en python
-  - **Unidad 1** Introducción a Python
-    - [Desafío evaluado - Introducción a Python](./Modulo-3/Unidad-1/DesafioEvaluado-IntroducciónPython.md)
-- **Modulo 3** Fundamentos de programación en python
-  - **Unidad 3** Estructuras de datos y funciones
-    - [Desafío evaluado - Estructuras de datos y funciones(I)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
-    - [Desafío evaluado - Estructuras de datos y funciones(II)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(II).md>)
-    - [Desafío evaluado - Estructuras de datos y funciones(III)](<./Modulo-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(III).md>)
+1. **Modulo 1** - Orientación al perfil y Metodología del curso
+2. **Modulo 2** - Fundamentos de Desarrollo Web
+   1. Unidad 1 - HTML y CSS
+      1. [Desafío Guiado - Meet and Coffee](./MODULO-2/Unidad-1/DesafioGuiado-MeetAndCoffee)
+   2. Unidad 2 - Bootstrap
+      1. [Desafío Guiado - Suricata](./MODULO-2/Unidad-2/DesafioGuiado-Suricata)
+      2. [Desafío Guiado - OliviaRos](./MODULO-2/Unidad-2/DesafioGuiado-OliviaRos)
+   3. Unidad 3 - JavaScript
+      1. [Desafío Guiado - Notas finales](./MODULO-2/Unidad-3/DesafioGuiado-NotasFinales)
+3. **Modulo 3** Fundamentos de programación en python
+   1. Unidad 1 - Introducción a Python
+      1. [Desafío evaluado - Introducción a Python](./MODULO-3/Unidad-1/DesafioEvaluado-IntroducciónPython.md)
+   2. Unidad 2 - Sentencias condicionales e iterativas
+      1. [Desafío evaluado - Estructuras de datos y funciones(I)](<./MODULO-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(I).md>)
+      2. [Desafío evaluado - Estructuras de datos y funciones(II)](<./MODULO-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(II).md>)
+      3. [Desafío evaluado - Estructuras de datos y funciones(III)](<./MODULO-3/Unidad-3/DesafioEvaluado-EstructurasDeDatosFunciones(III).md>)
+   3. Unidad 3 - Estructuras de datos y funciones
 
 ## Empezando 🚀
 

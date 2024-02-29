@@ -1,0 +1,49 @@
+body {
+  margin: 0px;
+  padding: 0px;
+  font-family: "Open Sans", sans-serif;
+}
+:root {
+  --main-bg-color: #e83e8c;
+}
+
+.navbar {
+  background: var(--main-bg-color);
+}
+.navbar-brand img {
+  height: 3.3125rem;
+}
+#productos {
+  padding-top: 3.75rem;
+}
+#productos h1 {
+  padding: 60px 0px;
+}
+
+@media (max-width: 768px) {
+  #productos h1 {
+    font-size: 35px;
+    padding: 30px 0px;
+    margin-top: 30px;
+  }
+}
+
+h1 {
+  font-size: 3.75rem;
+  font-weight: 600;
+  color: #707070;
+}
+
+#Ahora-aceptamos {
+  background: #17a2b8;
+}
+footer {
+  background: var(--main-bg-color);
+}
+footer img {
+  height: 6.25rem;
+}
+
+a {
+  text-decoration: none;
+}
