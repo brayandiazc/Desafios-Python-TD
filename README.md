@@ -29,6 +29,9 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
       2. [Desafío evaluado - Estructuras de datos y funciones(II)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2)
       3. [Desafío evaluado - Estructuras de datos y funciones(III)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-3)
    3. Unidad 3 - Estructuras de datos y funciones
+4. **Modulo 4** Programación avanzada en python
+   1. Unidad 1 - Introducción a la programación orientada a objetos con Python
+      1. [Desafío opcional - Creación de clases y objetos](Modulo-4/Unidad-1/DO-CreacionClasesObjetos)
 
 ## Empezando 🚀
 
