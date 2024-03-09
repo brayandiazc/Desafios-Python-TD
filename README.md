@@ -33,6 +33,7 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
    1. Unidad 1 - Introducción a la programación orientada a objetos con Python
       1. [Desafío opcional - Creación de clases y objetos](Modulo-4/Unidad-1/DO-CreacionClasesObjetos)
       2. [Desafío evaluado - Métodos y atributos](Modulo-4/Unidad-1/DE-MetodosAtributos)
+      3. [Desafío Guiao - TiposMétodos](Modulo-4/Unidad-2/DG-TiposMetodos)
 
 ## Empezando 🚀
 
