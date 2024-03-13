@@ -15,19 +15,20 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
 1. **Modulo 1** - Orientación al perfil y Metodología del curso
 2. **Modulo 2** - Fundamentos de Desarrollo Web
    1. Unidad 1 - HTML y CSS
-      1. [Desafío Guiado - Meet and Coffee](./MODULO-2/Unidad-1/DesafioGuiado-MeetAndCoffee)
+      1. [Desafío Guiado - Meet and Coffee](./MODULO-2/Unidad-1/DG-MeetAndCoffee)
    2. Unidad 2 - Bootstrap
-      1. [Desafío Guiado - Suricata](./MODULO-2/Unidad-2/DesafioGuiado-Suricata)
-      2. [Desafío Guiado - OliviaRos](./MODULO-2/Unidad-2/DesafioGuiado-OliviaRos)
+      1. [Desafío Guiado - Suricata](./MODULO-2/Unidad-2/DG-Suricata)
+      2. [Desafío Guiado - OliviaRos](./MODULO-2/Unidad-2/DG-OliviaRos)
    3. Unidad 3 - JavaScript
-      1. [Desafío Guiado - Notas finales](./MODULO-2/Unidad-3/DesafioGuiado-NotasFinales)
+      1. [Desafío Guiado - Notas finales](./MODULO-2/Unidad-3/DG-NotasFinales)
 3. **Modulo 3** Fundamentos de programación en python
    1. Unidad 1 - Introducción a Python
-      1. [Desafío evaluado - Introducción a Python](./Modulo-3/Unidad-1/DesafioEvaluado-IntroducciónPython.md)
+      1. [Desafío evaluado - Introducción a Python](./MODULO-3/Unidad-1/DesafioEvaluado-IntroducciónPython.md)
    2. Unidad 2 - Sentencias condicionales e iterativas
-      1. [Desafío evaluado - Estructuras de datos y funciones(I)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-1)
-      2. [Desafío evaluado - Estructuras de datos y funciones(II)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-2)
-      3. [Desafío evaluado - Estructuras de datos y funciones(III)](Modulo-3/Unidad-3/DE-EstructurasDatosFunciones-3)
+      1. [Desafío evaluado - Estructuras de datos y funciones(I)](./MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-1)
+      2. [Desafío evaluado - Estructuras de datos y funciones(II)](./MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-2)
+      3. [Desafío evaluado - Estructuras de datos y funciones(III)](./MODULO-3/Unidad-3/DE-EstructurasDatosFunciones-3)
+      4. [Prueba - Fundamentos de programación en Python](./MODULO-3/Unidad-3/Prueba-FundamentosProgramaciónPython)
    3. Unidad 3 - Estructuras de datos y funciones
 4. **Modulo 4** Programación avanzada en python
    1. Unidad 1 - Introducción a la programación orientada a objetos con Python

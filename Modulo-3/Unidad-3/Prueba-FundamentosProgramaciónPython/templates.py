@@ -1,0 +1,6 @@
+from string import Template  # Importa la clase Template del módulo string
+
+# Paso 1: Definición de la plantilla HTML
+html_template = Template...
+# Paso 2: Definición de la plantilla para cada elemento
+elem_template = Template...
