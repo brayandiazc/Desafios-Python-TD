@@ -34,6 +34,8 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
       1. [Desafío opcional - Creación de clases y objetos](Modulo-4/Unidad-1/DO-CreacionClasesObjetos)
       2. [Desafío evaluado - Métodos y atributos](Modulo-4/Unidad-1/DE-MetodosAtributos)
       3. [Desafío Guiao - TiposMétodos](Modulo-4/Unidad-2/DG-TiposMetodos)
+   2. Unidad 4 - Manejo de excepciones y archivos
+      1. [Desafío evaluado - Manejo de archivos](Modulo-4/Unidad-4/DE-ManejoExcepciones)
 
 ## Empezando 🚀
 
