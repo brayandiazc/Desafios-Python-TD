@@ -37,6 +37,7 @@ En algunos casos se incluyen ejemplos de código que pueden ser utilizados como 
       3. [Desafío Guiao - TiposMétodos](Modulo-4/Unidad-2/DG-TiposMetodos)
    2. Unidad 4 - Manejo de excepciones y archivos
       1. [Desafío evaluado - Manejo de archivos](Modulo-4/Unidad-4/DE-ManejoExcepciones)
+      2. [Prueba - Programación avanzada en Python](Modulo-4/Unidad-4/Prueba-ProgramaciónAvanzadaPython)
 
 ## Empezando 🚀
 
